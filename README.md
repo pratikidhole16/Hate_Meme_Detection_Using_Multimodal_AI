@@ -70,18 +70,15 @@ If you have any questions or comments on the dataset, please contact hatefulmeme
 ## 👨‍💻 Author
 
 ---
-### Adarsh Lilhare 
+### Pratik Idhole 
 
 🎓 B.Tech in Artificial Intelligence & Data Science
 
 💼 AI & Data Science Student | 💻 Developer | 🌍 Open Source Contributor | 🚀 Computer Vision Enthusiast
 
-📧 [Email](adarshlilhare@example.com)
+📧 [Email](pratik11idhole@gmail.com)
 
-🐙 [GitHub](https://github.com/AdarshVL) 
+🐙 [GitHub](https://https://github.com/pratikidhole16) 
 
-🌐 [Portfolio](https://adarshlilhare.dev)
-
-🔗 [LinkedIn](https://www.linkedin.com/in/adarsh-lilhare-b98a91290/)
 
 ---
